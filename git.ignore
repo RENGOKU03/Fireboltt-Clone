@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+package.json
+portfolio.html
+postcss.config.js
+script.js
+style.css
+tailwind.config.js
